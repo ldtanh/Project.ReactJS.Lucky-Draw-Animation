@@ -1,3 +1,5 @@
+# The Standalone Website is Available at: https://ldtanh.github.io/lucky-draw
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
